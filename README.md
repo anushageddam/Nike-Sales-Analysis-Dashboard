@@ -35,8 +35,8 @@ This project analyzes Nike sales data and builds an interactive Power BI dashboa
 
 ## 💡 Key Insights
 
-* Training generates highest revenue
-* Soccer is most profitable
+* Lifestyle generates highest revenue
+* Training is most profitable
 * Men contribute highest revenue
 * Mumbai is top region
 * Online channel performs strong
